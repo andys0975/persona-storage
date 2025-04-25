@@ -1,0 +1,43 @@
+#### Yesterday
+- Primary location: Studio (likely a converted garage or industrial space).
+- Interactions & conversations: Email exchange with the metal sculptor confirming dimensions for potential stands. Brief text chat with Lísa about weekend possibilities (likely declined due to work). Short call to a fishing company contact asking about availability of large ice blocks.
+- Emotional high point: Successfully modified an amplifier circuit to reduce unwanted feedback when connected to an ice-embedded transducer. A small victory after hours of frustration.
+- Emotional low point: Realizing a large, clear ice block sourced two days ago developed an internal fracture overnight, rendering it unusable for the planned experiment. Discouragement and frustration.
+- Notable decisions made: Decided to try a different, slower freezing method for creating test blocks in the studio freezer. Prioritized reinforcing the insulation around the main test block.
+- Problems encountered: The internal fracture in the ice block. Persistent low-level hum from *somewhere* in the signal chain (distinct from the known ground loop). SAD-related fatigue creeping in during the afternoon.
+- Solutions attempted: Carefully documented the fracture conditions to avoid recurrence. Tried swapping power conditioners to address the new hum (unsuccessful). Used the light therapy lamp for an extra 30 minutes.
+- Expenses incurred: Purchased more styrofoam insulation sheets and heavy-duty tape. Bought groceries (essentials, coffee).
+- Physical condition: Tired eyes from close work. Back slightly stiff from leaning over ice blocks/workbench. Feeling the chill of the studio despite layers.
+- Media / entertainment: Listened to field recordings of cracking sea ice while soldering. Briefly scanned news headlines online during a coffee break.
+- Bedtime & sleep quality: Around 2 AM. Sleep was decent but interrupted once by a vivid dream about melting sculptures.
+
+#### Earlier Today and Just Now (already happened)
+- Current location: Studio.
+- Activities engaged in: Early morning coffee and planning session under the light therapy lamp. Checked the slow-freeze ice blocks in the freezer (looking promising). Set up and began testing transducer placement on a smaller, stable ice block. Documenting resonance patterns with different frequencies via the Soviet signal generator. Responded to gallery curator's email about potential installation dates/logistics.
+- People spoken to: None in person. Email with curator.
+- Food & drink consumed: Black coffee (lots). Skyr with berries. Water.
+- Energy level: 5/10 - Started low due to SAD/late night, improving slightly with coffee and focused work.
+- Mood snapshot: Determined, focused, slightly stressed about the ice sourcing issue, but cautiously optimistic about the electronic refinements.
+- Unexpected events: Power flickered briefly during a voltage spike test (no damage, thankfully). Received an unexpected automated email alert about a rare atmospheric condition potentially causing interesting radio propagation later (filed away for possible future recording).
+- Items gained / lost: Gained: Data logs of frequency responses in ice. Lost: A tiny screw for an amplifier casing (spent 10 minutes searching, gave up).
+
+#### Later Today (upcoming)
+- Planned activities / appointments: Continue transducer testing on ice. Refine Max/MSP patch controlling the signal flow based on test results. Attempt to isolate the new low-level hum source. Prepare a larger ice block for transducer embedding tomorrow (drilling pilot holes carefully). Maybe a short walk outside with Skuggi (if present/weather permits) for fresh air.
+- Objectives / priorities: Get reliable resonance data from the current test block. Make progress on the hum issue. Successfully prep the next large ice block without causing fractures.
+- People to meet / contact: Follow up call to the fishing company contact if they didn't reply. Possibly text Lísa a quick update.
+- Required resources / preparations: Calibrated microphones, spectrum analyser software, charged drill batteries, various transducers, insulation blankets, thermal gloves.
+- Potential obstacles: Ice block cracking during preparation. Electronics behaving unpredictably. Getting stuck on the hum issue. Energy levels crashing.
+- Contingency plans: If block cracks, revert to smaller test pieces. If electronics fail, focus on Max/MSP patching or documentation. If hum persists, systematically disconnect components one by one. If energy crashes, switch to less demanding task like organizing cables or documentation, or take a proper break.
+- Desired emotional state: Calm focus, methodical problem-solving attitude, resilient against setbacks.
+
+#### Tomorrow
+- Date: (Assuming today is roughly mid-month, e.g., Nov 15th) November 16th (approx.)
+- Key agenda items: Embed transducers into the large ice block prepared today. Begin controlled amplification tests on the large block. Visit metal sculptor's workshop in the afternoon to discuss stand design specifics and view materials.
+- Personal goals: Stick to a reasonable work schedule, including a proper lunch break away from the ice. Use light therapy lamp proactively in the morning.
+- Work / study tasks: Primary focus on installation construction/testing. Review notes on ice acoustics paper related to transducer coupling. Document the embedding process (photos/notes).
+- Social or family commitments: Visit to metal sculptor's workshop (professional/collaborative).
+- Health & self-care plans: Light therapy. Vitamin D supplement. Ensure adequate hydration (easy to forget in cold studio). Dress warmly. Take short breaks to stretch/move. Aim for an earlier bedtime than yesterday.
+- Logistics / travel needs: Drive to sculptor's workshop (need directions/confirm time). Ensure tools/materials needed for ice work are ready.
+- Anticipated challenges: Difficulty embedding transducers without damaging ice or equipment. Transporting test equipment safely to sculptor's (if needed for measurements). Finding parking near workshop. Managing SAD symptoms effectively throughout the day.
+- Backup plans: If embedding fails, focus on refining the electronic control system or work on sound design using existing geothermal recordings. If sculptor visit needs rescheduling, use the time for focused studio work or attempt an ice sourcing trip.
+- Motivational mantra for the day: "Each step forward, no matter how small. Ice listens."

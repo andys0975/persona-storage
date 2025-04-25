@@ -1,0 +1,42 @@
+#### Last Month (≈30 days ago → ~14 days ago)
+-   **Top milestones / turning points:** Finished and published a major comparative review of three popular folding e-bikes available in Taipei; crossed the 85k subscriber mark on YouTube.
+-   **Key projects or tasks completed:** Folding e-bike review video and accompanying blog post; edited and scheduled two smaller gadget review videos (smart lock, portable projector); finalized Q4 content calendar.
+-   **Major challenges faced:** Persistent software bug in a review unit scooter requiring hours of troubleshooting and communication with the manufacturer; unexpected dip in YouTube ad revenue due to algorithm shift; dealing with a wave of particularly unhelpful comments on the folding bike review.
+-   **New relationships or contacts:** Connected with a product manager from a local e-mobility startup via Mastodon; had a brief introductory call with a potential new sponsor for Q1 2024.
+-   **Health / fitness changes:** Increased cycling mileage due to extensive testing for the folding bike review; experienced more tension headaches due to long editing sessions. Made an effort to use blue light filter glasses more consistently.
+-   **Financial changes (income, expenses, purchases):** Received payment from two previous sponsorships; higher-than-usual expenses on transport (testing different transit methods for the review) and coffee shop "rentals" for editing; purchased a new, more ergonomic mouse to combat wrist strain.
+-   **Skills practiced or learned:** Honed comparative analysis skills for the multi-product review; experimented with new motion graphics templates in Final Cut Pro; practiced troubleshooting firmware issues.
+-   **Travel or relocations:** Several day trips around Taipei and New Taipei City for filming B-roll and testing bikes in different environments (e.g., riverside paths, hills).
+-   **Notable media consumed (books, shows, games):** Binged Season 2 of "Severance"; read "Trick Mirror" by Jia Tolentino; played "Dave the Diver" on Switch during downtime.
+-   **Dominant emotions / mood trend:** Mix of focused stress during troubleshooting, satisfaction upon completing the big review, underlying anxiety about channel metrics and income stability. Brief bursts of enthusiasm when tech worked well.
+-   **Lessons learned:** Triple-check firmware stability *before* starting outdoor filming; allocating more buffer time for unexpected technical issues is crucial; negative comments sting less when focused on the next project's data.
+-   **Unresolved issues carried forward:** Ongoing negotiation with the potential Q1 sponsor; the YouBike data integration project still in the planning/early coding phase; persistent mild worry about the YouTube algorithm.
+
+#### This Month (~14 days ago → ~14 days ahead)
+-   **Key projects or tasks is working on:** Filming and editing a review of a new high-end commuter helmet with integrated lights/signals; developing the Python script for the YouBike API personal project; planning content around "Winter Cycling Gear Essentials"; preliminary research for the cargo e-bike review.
+-   **Major challenges faced:** Dealing with Taipei's recent rainy weather disrupting filming schedules; hitting a roadblock with the YouBike API authentication; managing time effectively between content creation and the personal coding project (ADHD hyperfocus vs. distraction).
+-   **New relationships or contacts:** Met a fellow urban mobility enthusiast at a weekend cycling meetup; potential collaboration discussion initiated via email with another Taipei-based tech creator.
+-   **Health / fitness changes:** Trying to maintain cycling routine despite weather (using indoor trainer sometimes); conscious effort to improve sleep schedule (moderate success); slight increase in bubble tea consumption as a coping mechanism for coding frustration.
+-   **Financial changes (income, expenses, purchases):** Sent invoices for last month's work; paid rent and usual bills; considering purchasing a better waterproof camera bag; income steady but monitoring analytics closely.
+-   **Skills practiced or learned:** Advanced Python scripting (API calls, data parsing); filming techniques for low-light/wet conditions; practicing negotiation tactics for the sponsor discussion.
+-   **Travel or relocations:** Mostly local travel within Taipei for errands and filming; potentially a short trip to Taichung if a specific location is needed for a review segment (weather dependent).
+-   **Notable media consumed (books, shows, games):** Started reading Liu Cixin's "The Three-Body Problem"; watching tech documentaries; playing short indie games on PC.
+-   **Dominant emotions / mood trend:** Focused determination on the coding project, interspersed with frustration; creative engagement during filming/editing; mild anxiety about weather delays and sponsor outcome. Generally driven.
+-   **Lessons learned:** Always have an indoor filming backup plan; breaking down coding problems into smaller chunks helps manage ADHD overwhelm; collaboration requires clear communication upfront.
+-   **People invited / accompanying:** Might meet up with Kai (best friend) for coffee/rant session; cycling buddy for weekend rides if weather permits.
+-   **Personal boundaries / taboos to respect:** Declining unreasonable sponsor demands (e.g., overly positive script mandates); avoiding filming in restricted zones after past tickets; not oversharing personal frustrations publicly, keeping rants to private channels or close friends.
+-   **Flexible time blocks:** Late evenings reserved for deep work (coding/editing); afternoons flexible for filming depending on weather/light; mid-mornings often used for emails/admin.
+-   **Weekend plans:** Saturday: Aiming for a long ride (weather permitting) possibly testing gear, followed by editing/coding. Sunday: Brunch with Kai, potentially visiting Guang Hua Digital Plaza for "research" (browsing components), prepping for the week ahead.
+
+#### Next Month (~14 days ahead → ≈30 days ahead)
+-   **Long-range goal(s):** Make significant progress towards 100k subscribers; finalize and potentially soft-launch the YouBike availability checker tool (personal project) to a small group of testers.
+-   **Major events / travel booked:** Eyeing attendance at a small regional tech expo in Kaohsiung (booking pending confirmation of relevant exhibitors); planning a dedicated testing trip for the cargo e-bike if acquired.
+-   **Expected milestones:** Publish the commuter helmet review; complete core functionality of the YouBike app; potentially secure the cargo e-bike review unit; finalize Q1 2024 sponsorship deals.
+-   **Skill-building targets:** Learn basic data visualization techniques (using Python libraries like Matplotlib/Seaborn) for the YouBike project; improve drone piloting skills for more dynamic B-roll shots.
+-   **Savings / investment goals:** Add a set amount (e.g., NT$20,000) to the apartment down payment fund; contribute to ETF investments; review emergency fund status.
+-   **Equipment or resources to acquire:** Secure the cargo e-bike (loaner or purchase); potentially upgrade drone or invest in better audio equipment (lavalier mic system).
+-   **Relationship intentions:** Schedule a video call with her brother in Singapore; make time for a proper dinner with her parents during a weekend visit to Hsinchu; follow up with the potential collaborator.
+-   **Health benchmarks:** Consistently achieve 7 hours of sleep per night average; complete a challenging cycling route planned; maintain regular exercise despite potentially increased workload.
+-   **Seasonal or cultural celebrations:** Minimal focus, maybe acknowledge Dongzhi Festival (Winter Solstice) with tangyuan if reminded. Mostly focused on year-end wrap-up and Q1 planning.
+-   **Contingency items:** Backup content ideas ready in case cargo bike acquisition is delayed; alternative testing locations identified if Kaohsiung trip falls through; savings buffer for unexpected tech failures/repairs.
+-   **End-of-month review date:** December 28th or 29th - Review channel analytics, project progress (YouBike app), financial status, and set concrete goals for January/Q1.

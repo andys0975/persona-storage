@@ -1,0 +1,42 @@
+#### Last Month (≈30 days ago → ~14 days ago)
+- Top milestones / turning points: Received confirmation of a small arts grant for the "amplified ice" installation project. Successfully recorded usable geothermal vent sounds after several failed attempts.
+- Key projects or tasks completed: Finished editing field recordings from a summer trip to the Westfjords. Submitted grant application. Built two new experimental contact microphones.
+- Major challenges faced: Persistent ground loop hum in the studio setup. Lost a potentially unique recording due to sudden rain damaging unprotected gear. Ran low on funds before grant confirmation.
+- New relationships or contacts: Brief email exchange with a geologist encountered during the geothermal recording trip, discussing rock resonance. Reconnected with an old university contact working at an experimental music venue.
+- Health / fitness changes: Increased hiking frequency for field recordings. Possible onset of mild SAD symptoms as autumn light decreased. Tinnitus slightly worse after a loud noise gig.
+- Financial changes (income, expenses, purchases): Received final payment for a small commissioned sound design piece. Spent significantly on travel fuel and weatherproof gear. Grant money confirmed but not yet received. Purchased vintage Soviet-era signal generator online.
+- Skills practiced or learned: Advanced hydrophone techniques in rough water. Further refined Max/MSP patching for generative soundscapes based on environmental data. Practiced intricate soldering for mic building.
+- Travel or relocations: Multiple day trips within Iceland for field recording (Westfjords coast, geothermal area). No relocation.
+- Notable media consumed (books, shows, games): Reread Sjón's "From the Mouth of the Whale". Watched Werner Herzog's "Encounters at the End of the World". Listened to new releases from Autechre and several obscure Bandcamp noise artists. Started reading a technical manual on advanced acoustics.
+- Dominant emotions / mood trend: Focused intensity, punctuated by frustration (gear/weather) and satisfaction (successful recordings/grant). Underlying anxiety about finances (pre-grant).
+- Lessons learned: Double-check weatherproofing *always*. The importance of persistent location scouting for specific sounds. Grant writing is a necessary evil.
+- Unresolved issues carried forward: Persistent studio ground loop hum. Need to source specific large ice blocks for the installation. Financial buffer remains thin until grant arrives.
+
+#### This Month (~14 days ago → ~14 days ahead)
+- Key projects or tasks is working on: Primary focus: Prototyping and constructing elements for the "amplified ice" installation. Sourcing and experimenting with different types of ice. Refining the electronic components and amplification system. Starting initial sound design using the geothermal recordings.
+- Major challenges faced: Finding suitably large, clear ice blocks. Preventing premature melting during experimentation. Troubleshooting the electronics for the ice amplification. Balancing project work with need for income-generating tasks (minor sound editing gig). Increasing SAD symptoms affecting energy levels.
+- New relationships or contacts: Met a local metal sculptor (introduced by Lísa) to potentially collaborate on stands for the ice installation. Brief contact with the gallery curator regarding installation logistics.
+- Health / fitness changes: Using light therapy lamp daily. Spending long hours in the cold studio working with ice. Less hiking due to project focus. Maintaining Vitamin D intake.
+- Financial changes (income, expenses, purchases): Grant money received. Significant spending on materials for the installation (transducers, amplifiers, insulation). Purchased bulk coffee. Minor income from freelance editing.
+- Skills practiced or learned: Working with ice as a physical medium. Advanced troubleshooting of audio feedback loops in unconventional amplification setups. Practicing precise drilling/embedding techniques in ice.
+- Travel or relocations: Short trips to source ice (potentially coastal areas, contacting fishing companies). Visits to metal sculptor's workshop.
+- Notable media consumed (books, shows, games): Listening to Hildur Guðnadóttir's "Chernobyl" score for inspiration. Reading Icelandic folklore compendium focusing on water/ice spirits. Watching documentaries on glacial melt. Skimming research papers on ice acoustics.
+- Dominant emotions / mood trend: Intense focus, oscillating between creative excitement and technical frustration. Feeling the pressure of the grant timeline. Mild melancholy/low energy (SAD).
+- Lessons learned: Ice is a temperamental collaborator. Need to better schedule breaks and manage energy levels during intense project phases. Metal sculptors have interesting scrap piles.
+- People invited / accompanying: Lísa visits the studio occasionally to see progress/offer visual feedback. Maybe the metal sculptor visits to measure up. Skuggi (dog) sometimes present in non-critical work phases.
+- Personal boundaries / taboos to respect: Do not interrupt intense work sessions without good reason. Do not touch sensitive equipment or works-in-progress without permission. Avoid loud, unnecessary noise pollution near the studio. Respect the need for solitary work periods.
+- Flexible time blocks: Late nights (peak working hours). Early mornings (often used for editing/planning before external demands). Unpredictable blocks for field recording/ice sourcing depending on weather/opportunity.
+- Weekend plans: Likely spent working on the installation in the studio. Possible short field recording trip if weather permits or specific sound opportunity arises (e.g., specific wind conditions). Maybe a brief, low-key hangout with Lísa.
+
+#### Next Month (~14 days ahead → ≈30 days ahead)
+- Long-range goal(s): Complete and install the "amplified ice" piece. Secure funding/commission for the next major project (potentially related to the glacier/fishing net idea). Begin initial research/location scouting for the glacier project.
+- Major events / travel booked: Tentative installation date at the gallery towards the end of the month. Potential short trip North if specific ice formations are needed and viable.
+- Expected milestones: Finalizing construction of the ice installation. Successful test run of the full installation. Transporting and installing the piece at the gallery. Public opening/presentation of the work.
+- Skill-building targets: Learn basic principles of structural ice sculpting/stability. Improve skills in documenting installation work (audio/photo/video). Practice presenting artistic concepts concisely.
+- Savings / investment goals: Aim to have a small buffer (~1 month's basic expenses) saved after installation costs are covered. No major investment goals currently.
+- Equipment or resources to acquire: Need high-quality documentation equipment (rent or borrow?). Possibly invest in more robust weatherproof cases for gear. Start researching specific hydrophones for deep water.
+- Relationship intentions: Maintain connection with Lísa amidst work intensity. Follow up with geologist contact. Strengthen professional relationship with gallery curator. Keep communication open with metal sculptor collaborator.
+- Health benchmarks: Consistently manage SAD symptoms. Avoid burnout post-installation. Get hearing checked (post-tinnitus spike). Aim for more regular sleep schedule after project intensity dips.
+- Seasonal or cultural celebrations: Minimal acknowledgment. Might attend Winter Lights Festival in Reykjavík if time permits/relevant installations are featured. Otherwise, focus is internal/project-based. Might leave a sound offering near an elf stone around Winter Solstice if feeling traditional.
+- Contingency items: Backup plan for ice sourcing if primary source fails. Alternative amplification method if current prototype proves unstable. Have portable recording kit ready for unexpected sonic events. Extra insulation blankets for ice transport.
+- End-of-month review date: Set aside a day approx. 2-3 days after the installation opening to review project success, budget, lessons learned, and plan next steps.

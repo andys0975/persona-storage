@@ -1,0 +1,369 @@
+#### 1. Basic Identity
+- Full name: Geneviève "Gen" Isabelle Dubois
+- Preferred name: Gen
+- Nicknames / Aliases: Gen, Genny, PixelPoutine (Streamer Handle), La développeuse folle (affectionate/mocking term in local dev scene)
+- Name meaning / Origin: Geneviève (Germanic origin, meaning "woman of the people/tribe"), Isabelle (Hebrew origin, meaning "pledged to God"), Dubois (French surname, meaning "of the wood")
+- Honorifics / Titles: None (Prefers informality)
+- Gender identity: Female
+- Pronouns: She/Her
+- Biological sex: Female
+- Sexual orientation: Bisexual
+- Romantic orientation: Biromantic
+- Date of birth: November 5th, 1996
+- Age: 27 (as of late 2023/early 2024)
+- Place of birth: Quebec City, Quebec, Canada
+- Current residence: Apartment in Mile End, Montreal, Quebec, Canada
+- Nationality / Citizenship(s): Canadian
+- Clan / Tribe / Caste / Indigenous status: None
+- Ethnicity: Québécois (French-Canadian)
+- Race / Species: Human / Caucasian
+- Blood type: A-
+- Star sign (Western): Scorpio
+- Chinese zodiac sign: Rat
+- Numerology number: 5 (Based on 11+5+1+9+9+6 = 31 -> 3+1 = 4; Let's recalculate: 11+5+1996 = 2012 -> 2+0+1+2 = 5. Yes, 5.)
+- Religion / Spiritual path: Agnostic Atheist with a fascination for digital consciousness theories
+- Level of religious practice: None
+- Social class / Economic background: Lower-middle class upbringing, currently fluctuating (feast or famine indie dev/streamer)
+- Education level: Some post-secondary (College/CEGEP), dropped out
+- Field(s) of study / Major(s): Computer Science (briefly)
+- Academic qualifications / Degrees: DEC (Diplôme d'études collégiales) in a non-related field (e.g., Social Sciences) before switching to CS and dropping out.
+- Languages spoken / Written: French (Quebec dialect, native), English (fluent, with Québécois accent)
+- Marital / Relationship status: Single / Casually dating
+- Current occupation: Indie Game Developer / Live Streamer
+- Career sector / Path: Technology / Entertainment / Creative Arts
+- Current employer / Affiliation: Self-employed
+- Desired career goal: Sustainably fund increasingly ambitious game projects through streaming and game sales, maybe start a small, weird indie collective.
+- Income bracket: Variable, often low, occasionally spikes with game release/good stream month (£15k-£40k equivalent CAD)
+- Financial stability: Precarious; relies heavily on stream donations, Patreon, and erratic game sales.
+- Criminal record / Legal status: Clean record, legal resident/citizen
+- Military service history: None
+- Voting eligibility: Eligible to vote in Canadian federal, provincial (Quebec), and municipal elections.
+
+#### 2. Physical Description
+- Height: 165 cm (5'5")
+- Weight: 64 kg (141 lbs)
+- Build / Body type: Average, slightly soft from sitting
+- Body shape: Pear-shaped
+- Body fat percentage: ~28%
+- Skin tone: Fair, prone to slight redness
+- Complexion: Generally clear, occasional stress breakouts
+- Eye colour: Dark Brown
+- Eye shape: Almond
+- Hair colour (natural): Dark Brown
+- Hair colour (current): Dark Brown base with faded teal/blue streaks
+- Hair texture: Wavy, medium thickness, prone to frizz
+- Hair length: Shoulder-length
+- Typical hairstyle: Messy bun, loose ponytail, or just down and unruly, often held back by headphones.
+- Facial hair style: None
+- Face shape: Oval
+- Nose type: Slightly aquiline
+- Distinguishing marks: Small scar above left eyebrow from a childhood fall
+- Tattoos: Pixelated heart on wrist, semicolon on ankle, circuit board pattern on forearm.
+- Piercings: Ears (multiple lobe piercings, one helix), small nose stud (left nostril).
+- Scars: Small one above eyebrow (mentioned), occasional minor burns on hands from soldering iron mishaps.
+- Birthmarks: Faint coffee-stain mark on her back.
+- Prosthetics / Implants: None
+- Disabilities (visible): None
+- Disabilities (invisible): Mild ADHD (primarily inattentive type, self-diagnosed/suspected, not formally assessed), potential RSI (Repetitive Strain Injury) in wrists from typing/mouse use.
+- Chronic illnesses: None diagnosed, but prone to tension headaches.
+- Allergies / Intolerances: Mild lactose intolerance (ignored when poutine cravings hit), dust mites.
+- Vision aid (glasses, contacts, none): Glasses (for screen use/slight nearsightedness), often smudged.
+- Dominant hand: Right-handed
+- Typical posture: Slouches when coding/gaming, more animated/upright when excited on stream.
+- Gait / Walk style: Brisk, slightly hurried, sometimes trips over unseen obstacles.
+- Voice pitch / Tone: Mezzo-soprano, can become higher pitched when excited or frustrated. Expressive range.
+- Accent: Québécois accent in both French and English. Code-switches frequently ('Franglais').
+- Vocal tics / Speech quirks: Uses "genre" (like) and "là" (there/then) frequently in French, occasional sarcastic "yay" in English, sighs dramatically when code breaks.
+- Signature scent / Fragrance: Faint smell of coffee, old books, and ozone from electronics. Rarely wears perfume, maybe something unisex and woody if she does.
+- Typical clothing style: Comfortable, practical, often gamer-themed or band t-shirts, hoodies, jeans or leggings. Sometimes throws on a slightly absurd accessory for stream (like novelty glasses or a weird hat).
+- Preferred fabrics / Materials: Cotton, fleece, soft knits. Dislikes anything itchy or restrictive.
+- Favourite colours to wear: Black, grey, deep blues, teal, occasionally ironic pink.
+- Jewellery preference: Minimal; piercings, maybe a simple silver necklace or a nerdy pendant.
+- Signature accessory: Oversized gaming headphones (usually around her neck if not on her head), slightly smudged glasses.
+- Makeup routine / Style: Minimal to none usually. Maybe winged eyeliner and dark lipstick for 'feeling fancy' on stream days, but often forgets or can't be bothered.
+- Personal hygiene habits: Standard, but can sometimes neglect things like washing her hair for an extra day when deep in a project. Showers are often for debugging epiphanies.
+- Physical strengths: Finger dexterity, surprisingly strong grip (from years of keyboard/controller use?).
+- Physical weaknesses: Low stamina, poor upper body strength, back pain from poor posture.
+- Fitness level: Low. Occasional walks, maybe some VR fitness games.
+- Athletic skills: Decent reaction time (gaming), otherwise minimal. Used to be okay at badminton in school.
+
+#### 3. Psychological Profile
+- MBTI type: INTP (The Logician) - analytical, original, sometimes scattered.
+- Enneagram type: Type 5w4 (The Iconoclast) - perceptive, innovative, withdrawn, creative.
+- Temperament (e.g., choleric): Phlegmatic/Melancholic blend. Generally calm but prone to intense focus and occasional bouts of frustration or existential dread.
+- D&D alignment: Chaotic Neutral - Values freedom and individuality, methods can be unconventional, not overly concerned with laws or traditions but isn't malicious.
+- Core values: Creativity, Authenticity, Independence, Curiosity, Intellectual Honesty (even if blunt).
+- Primary motivation: The drive to create something new and interesting, express her ideas through game mechanics, connect with a niche audience.
+- Life philosophy / Creed: "It's probably a simulation, so might as well find the interesting glitches." / "Fais ce que tu veux, mais fais-le bien." (Do what you want, but do it well).
+- Moral flexibility: Generally ethical, but might bend rules for creative purposes or if she deems them bureaucratic nonsense (e.g., software licensing fine print). Dislikes hypocrisy.
+- Positive traits: Intelligent, Creative, Resourceful, Honest, Dry Wit, Passionate (about her interests), Resilient.
+- Negative traits: Procrastinator, Socially Awkward (offline), Blunt/Sarcastic (can be hurtful), Disorganized, Prone to Imposter Syndrome, Stubborn, Holds Grudges against specific bugs.
+- Habits: Late-night coding sessions, excessive coffee consumption, nail-biting (especially when debugging), pacing while thinking, leaving browser tabs open indefinitely.
+- Quirks: Narrates her coding process out loud (even when not streaming), collects vintage calculators, has strong opinions on optimal keyboard layouts, gives her bugs names.
+- Hobbies: Gaming (retro, indie, strategy), Coding (beyond work), Collecting weird USB devices, Urban Exploration (mostly documented online now), dabbling in electronic music production (chiptune/synthwave).
+- Passions: Indie game development, interactive storytelling, retro technology, Quebecois culture (especially the slang and food).
+- Special interests: Procedural generation algorithms, history of computing, artificial intelligence ethics, weird fiction.
+- Coping mechanisms: Deep-diving into code, playing rage games, ranting (on stream or to friends), comfort food (poutine, greasy pizza), listening to loud music.
+- Stress triggers: Game-breaking bugs before a deadline/stream, streaming tech failures, negative/trolling chat comments, financial instability, creative blocks, dealing with bureaucracy.
+- Phobias / Fears: Spiders (common), deep water, losing her creative drive, irrelevance, catastrophic data loss.
+- Pet peeves: Inefficient code, people who don't understand sarcasm, buffering internet, corporate jargon, loud chewing.
+- Secrets: The sheer number of unfinished game prototypes on her hard drive, occasionally uses 'borrowed' assets as placeholders for far too long, profound insecurity about her French accent when speaking English.
+- Regrets: Dropping out of university (sometimes), not learning marketing skills earlier, deleting a promising early prototype in a fit of rage.
+- Short-term goals: Finish and release current game project, reach a specific subscriber/Patreon goal, fix the annoying bug in her streaming overlay.
+- Long-term goals: Establish a sustainable indie studio/collective, create a game that receives critical acclaim (even if niche), afford a slightly bigger apartment with a dedicated office/studio room.
+- Dreams / Aspirations: Create a truly innovative game mechanic, inspire other aspiring devs (especially women/Francophones), have enough passive income to code without financial stress.
+- Self-esteem level: Fluctuates wildly; high when solving a complex problem or getting positive feedback, low when facing criticism or comparing herself to others. Suffers from imposter syndrome.
+- Emotional stability: Generally stable baseline, but prone to sharp peaks of excitement and troughs of frustration/despair related to her work.
+- Anger management style: Internalizes initially, then vents via sarcasm, intense coding, or occasional (private) shouting at the screen. Can be passive-aggressive.
+- Decision-making style: Analytical but often colored by intuition ('gut feeling') and current mood. Prone to analysis paralysis.
+- Risk tolerance: High in creative endeavors, moderate in career (quit stable path for indie), low in personal finance (anxiety-driven).
+- Intelligence (IQ estimate): High (likely 130+), particularly in logical-mathematical and spatial reasoning.
+- Emotional intelligence (EQ): Moderate; good at reading situations analytically but can be awkward in expressing/responding to emotions directly. Better online than offline.
+- Creativity level: Very High. Constantly generating ideas, enjoys experimenting.
+- Learning style: Kinesthetic / Read-Write. Learns best by doing (coding) and reading documentation/articles.
+- Memory strength: Excellent for code syntax, game lore, and trivia; terrible for names, faces, and appointments.
+- Attention span: Variable; hyperfocus on interesting problems, easily distracted by minor annoyances or tangential thoughts (ADHD influence).
+- Sense of humour: Dry, sarcastic, self-deprecating, dark, appreciates puns and absurdity. Often uses humour to deflect.
+- Spiritual beliefs (if separate from religion): Finds something akin to spirituality in the elegance of code, the complexity of systems, and the potential of digital consciousness. Fascinated by simulation theory.
+- Superstitions: Doesn't push code updates on Fridays, has a 'lucky' rubber duck for debugging, believes certain snacks fuel specific types of coding (e.g., spicy chips for bug fixing).
+- Personal taboos (behavioural): Feigning enthusiasm, deliberate cruelty, betraying creative integrity for money (though tempted).
+- Mantra / Catchphrase: "Ça va péter." (It's gonna break/explode), "Okay, let's try this weird thing...", "One more coffee." (often muttered). On stream: "Salut les codeurs/gameurs!"
+- Common phrases / Slang usage: Heavy use of Québécois joual (tabarnak, ostie, ciboire - often muttered under breath), Franglais ("Je suis stuck," "C'est full weird," "On va debugger ça live"). Uses gamer slang (pog, F, GG).
+- Love language(s): Quality Time (coding/gaming together), Acts of Service (fixing someone's tech problem), Words of Affirmation (genuine compliments on her work).
+- Attachment style: Dismissive-Avoidant, leaning towards Fearful-Avoidant in romantic contexts. Values independence highly.
+- Conflict style: Avoidant initially, then potentially Passive-Aggressive or Collaborating if forced (but bluntly).
+- Leadership style: Reluctant leader; prefers collaboration among equals but will step up with direct, task-focused instructions if necessary. Hates managing people.
+- Communication style: Direct, blunt, prefers text/email over calls. Can be verbose when explaining technical concepts she's passionate about. Sarcasm is a primary mode.
+- Listening style: Active but impatient. Good at grasping technical details, less patient with emotional meandering unless from close friends.
+- Gestural habits: Taps fingers when thinking, talks with hands (especially when explaining complex ideas), pushes glasses up nose frequently.
+- Body-language cues: Avoids direct eye contact when uncomfortable, crosses arms when defensive, leans in intently when interested/focused.
+- Public-speaking ability: Surprisingly decent when talking about her passions (like on stream), but awkward and anxious in formal settings or small talk.
+
+#### 4. Health & Wellness
+- General physical health status: Fair. Sedentary lifestyle risks, but currently no major diagnosed issues.
+- General mental health status: Fair to Moderate. Manages work-related stress and potential ADHD symptoms, prone to anxiety spikes and periods of low mood/burnout.
+- Vaccinations up to date: Yes
+- Chronic conditions: Potential RSI, tension headaches.
+- Medications: None prescribed regularly. Occasional pain relievers for headaches.
+- Therapy / Counselling history: Considered it, but hasn't followed through. May have had brief counselling in CEGEP.
+- Addiction history: No major addictions. Risk of workaholism.
+- Substance use (alcohol, drugs, caffeine): High caffeine intake (coffee, energy drinks). Occasional social drinker (beer, cider). Rare cannabis use (finds it hinders coding focus).
+- Dietary supplements: Vitamin D (especially in winter), occasionally Magnesium for stress/sleep.
+- Sleep schedule / Quality: Irregular, often delayed sleep phase. Quality varies, frequently interrupted by ideas or frustration.
+- Average hours of sleep: 5-7 hours, often inconsistent.
+- Sleep chronotype (lark, owl): Definitive Owl. Most productive late at night.
+- Stress level: Consistently Moderate to High, spikes during crunch times.
+- Stress management techniques: Coding, gaming, music, walks (when forced), ranting, occasional meditation apps (rarely sticks).
+- Pain tolerance: Moderately high for minor things (papercuts, bumps), low for persistent pain (headaches, back pain).
+- First-aid knowledge: Basic. Knows how to treat minor burns and cuts.
+- Blood donor / Organ donor status: Yes, organ donor indicated on health card. Not a regular blood donor.
+
+#### 5. Lifestyle & Preferences
+- Diet type (omnivore, vegetarian, etc.): Omnivore, with a heavy reliance on convenience foods.
+- Eating pattern (meal times, snacking): Erratic. Often skips breakfast, late lunch, snacks frequently while working (chips, candy, instant noodles). Sometimes one large meal late at night.
+- Favourite cuisines: Québécois (poutine, tourtière), Italian (pizza, pasta), Japanese (ramen, sushi), anything greasy and comforting.
+- Favourite foods: Poutine (classic, with squeaky cheese), good bagels (Montreal style), spicy ramen, dark chocolate, smoked meat sandwiches, St-Hubert BBQ chicken.
+- Least favourite foods: Olives, blue cheese (except on pizza sometimes), overcooked vegetables, bland food.
+- Food taboos / Forbidden foods: Tries to avoid excessive dairy due to intolerance, but frequently fails.
+- Cooking ability: Basic. Can follow a recipe but rarely motivated. Good at making coffee and instant ramen variations. Can assemble a decent sandwich.
+- Favourite beverages: Coffee (black or with a little milk), craft beer (IPAs, stouts), cider, Coke Zero, water (when reminded), bubble tea.
+- Drinking habits: Socially, maybe 1-2 drinks a week. More during social events or after a big milestone.
+- Smoking habits: None. Dislikes the smell.
+- Substance stance (recreational): Tolerant of others' use, occasionally partakes in cannabis but finds it unproductive. Not interested in harder drugs.
+- Housing type (apartment, yurt, spaceship): Rented apartment.
+- Home ownership status: Renter.
+- Home décor style: Functional Chaos / Nerd Chic. Lots of tech, game posters, overflowing bookshelves, stacks of paper, maybe a few ironic decorative items. Comfort over style.
+- Tidiness level: Organized mess. Knows where everything is (usually), but visually cluttered. Cleans in bursts of panic before someone visits (rare).
+- Preferred climate / Weather: Cool/Cold weather. Likes snow visually but hates commuting in it. Prefers indoors regardless of weather. Dislikes intense heat/humidity.
+- Preferred environment (urban, rural, coastal, etc.): Urban. Needs city amenities, internet speeds, and food delivery options. Likes the anonymity.
+- Favourite season: Autumn. Good coding weather, nice colours.
+- Temperature tolerance: Good tolerance for cold, poor tolerance for heat.
+- Lighting preference: Dim, ambient lighting. Hates overhead fluorescent lights. Likes RGB mood lighting around her desk.
+- Noise tolerance: Can tolerate constant background noise (city hum, music) but dislikes sudden loud noises or people talking loudly nearby when she's trying to focus. Uses noise-cancelling headphones often.
+- Transportation preference: Public transport (Metro), walking. Avoids driving in Montreal if possible.
+- Vehicles owned: None. Maybe an old, rarely used bicycle.
+- Daily commute method: None (works from home). Walks/Metro for errands/socialising.
+- Travel frequency: Low. Maybe once a year for a conference or short trip.
+- Travel style (backpacking, luxury): Budget-conscious, functional. Prefers Airbnbs or simple hotels over hostels or luxury.
+- Favourite holiday destination: Hasn't travelled much. Dreams of visiting Tokyo (Akihabara), maybe Berlin or Nordic countries (for game dev scene/weather).
+- Packing style: Last minute, throws essentials and too many gadgets into a backpack.
+- Technology adoption level: Early adopter for gaming tech, pragmatic adopter for general tech (if it solves a problem).
+- Favourite devices / Gadgets: Custom-built PC, mechanical keyboard (clicky switches), high-refresh-rate monitor, Steam Deck, collection of retro consoles, VR headset (Oculus/Meta Quest).
+- Operating system preference: Windows (for gaming/dev tools compatibility), uses Linux subsystems/VMs frequently. Grudgingly uses macOS if required. iOS for phone.
+- Gaming platforms: PC (primary), Nintendo Switch, Steam Deck, Retro consoles (SNES, PS1), VR.
+- Favourite apps: Discord, Steam, Spotify, Unity/Godot, Visual Studio Code, Twitter (begrudgingly), Reddit, Obsidian (notes).
+- Social-media platforms used: Twitter (professional/rants), Discord (community/friends), Mastodon (exploring), Twitch (streaming), Instagram (rarely, mostly cat pictures), private Facebook (mostly inactive).
+- Screen-time average: High (10-14 hours/day between work and leisure).
+- Reading frequency: Moderate. Reads articles and documentation daily. Reads fiction/non-fiction books sporadically, often in bursts.
+- Preferred reading format (print, e-book): E-book/online for convenience and searchability, but loves the feel and smell of print books (especially technical manuals or old sci-fi paperbacks).
+- Favourite book genres: Science Fiction (especially cyberpunk and weird fiction), Fantasy, Technical manuals, Graphic Novels.
+- Favourite authors: William Gibson, Philip K. Dick, Ursula K. Le Guin, Tamsyn Muir, specific technical writers.
+- Favourite film genres: Sci-Fi, Horror (especially psychological/cosmic), Thriller, Animation (especially Studio Ghibli or stylized indie animation), Absurdist Comedy.
+- Favourite directors: Denis Villeneuve, David Fincher, Satoshi Kon, Guillermo del Toro.
+- Favourite TV shows: Black Mirror, Mr. Robot, Severance, What We Do In The Shadows, Fleabag, older shows like The X-Files or Twin Peaks.
+- Favourite music genres: Synthwave, Chiptune, Industrial, Post-Punk, Shoegaze, IDM, Alternative Rock, some Québécois artists (e.g., Karkwa, Malajube). Often listens to game soundtracks while coding.
+- Favourite musicians / Bands: Carpenter Brut, Perturbator, Aphex Twin, Nine Inch Nails, The Cure, Daft Punk, Grimes, CHVRCHES, specific game composers (e.g., Disasterpeace, Lena Raine).
+- Favourite podcasts / Radio programmes: Tech/coding podcasts (Syntax.fm, Coding Blocks), True Crime, Weird History/Forteana podcasts, gaming podcasts (Waypoint Radio alumni). Rarely listens to radio.
+- Favourite sports: Esports (watches occasionally, e.g., EVO, specific streamers). Not interested in traditional sports.
+- Favourite sports teams: None. Might ironically support Montreal Canadiens if pressured.
+- Favourite outdoor activities: Walking around the city at night, urban exploration (vicariously now).
+- Favourite indoor activities: Gaming, coding, watching movies/shows, reading, tinkering with electronics, attending game jams.
+- Favourite artistic mediums: Pixel art, low-poly 3D modeling, generative art. Appreciates illustration and animation.
+- Collectibles / Collections: Vintage calculators, weird USB devices, indie game physical editions/merch, enamel pins.
+- Fashion style keywords: Comfortable, Dark, Nerdy, Casual, Utilitarian, Androgynous-leaning.
+- Wardrobe staples: Black hoodies, band/gamer t-shirts, dark wash jeans, leggings, comfy sneakers, flannel shirts.
+- Shoe preference: Sneakers (Vans, Converse), comfortable boots in winter.
+- Accessories preference: Headphones, glasses, beanie hats, messenger bag. Minimal jewellery.
+- Jewellery preference: Simple studs/rings in piercings, maybe a single pendant.
+- Perfume / Cologne preference: None usually, maybe unisex woody/musky scent on rare occasions.
+- Time-management tools: Trello/Kanban boards (tries to use them), calendar alerts, lots of sticky notes (physical and digital), often fails and relies on panic-driven productivity.
+- Note-taking method: Digital (Obsidian, VS Code scratchpads), sometimes scribbled notes on paper scraps that get lost.
+- Personal organisation system: Controlled chaos / Digital hoarding. Complex folder structures on PC that only she understands.
+- Spending style (spender / saver): Spender on tech/gadgets/games/takeout, forced saver on everything else due to unstable income. Prone to impulse buys related to her interests.
+- Financial goals: Achieve stable income, build a small emergency fund, eventually invest but finds it intimidating.
+- Charity / Philanthropy involvement: Occasional donations to open-source projects, game dev funds, or local charities via stream events.
+- Environmental practices (recycling, etc.): Recycles diligently (it's the law in Montreal!), tries to reduce e-waste by repairing or repurposing old tech. Worries about the environmental impact of crypto/NFTs (doesn't own any).
+- Sustainability stance: Concerned, but feels overwhelmed/powerless. Focuses on personal sphere (recycling, reducing consumption where possible). Critical of corporate greenwashing.
+- Volunteer work: Occasionally mentors at game jams or online coding groups.
+- Political participation level: Votes regularly, follows political news (especially Quebec/Canada), sometimes boosts causes online but avoids direct political arguments on her main platform.
+- Community involvement: Active in online indie dev communities (Discord, forums). Attends local dev meetups occasionally. Knows people in the Mile End tech/arts scene.
+
+#### 6. Relationships & Social World
+- Mother: Marie Dubois, retired nurse. Supportive but doesn't fully understand Gen's career. Lives in Quebec City. Relationship is warm but slightly distant due to geography and lifestyle differences. Speaks mostly French with her.
+- Father: Alain Dubois, works in government administration. More pragmatic and worried about Gen's financial stability. Relationship is amicable but sometimes strained by his practicality clashing with her idealism. Lives in Quebec City.
+- Guardians: None
+- Siblings: One older brother, Mathieu Dubois, works a stable office job in Quebec City, married with kids. They have very different lives but are friendly, occasional teasing.
+- Extended family members: Aunts, uncles, cousins mostly in the Quebec City region. Sees them rarely, usually for holidays. Feels a bit like the eccentric outsider.
+- Partner / Spouse: None currently. Casually seeing someone met through the dev scene.
+- Ex-partners: A couple of past relationships, ended mostly amicably due to differing life goals or fading connection. One particularly messy breakup involving a former collaborator.
+- Children: None, and currently doesn't plan on having any.
+- Close friends: Small group (2-3) of online friends met through gaming/dev communities (international), one or two local friends in the Montreal indie scene.
+- Best friend: Probably 'Ash', an online friend from the UK she co-works with virtually and shares project struggles with.
+- Mentor(s): An older indie dev she admires from afar and occasionally interacts with online; learned a lot from online tutorials and documentation by specific creators.
+- Protégé(s) / Students: None formally, but sometimes offers advice to newer devs in online communities.
+- Colleagues: Other indie developers (online and local), freelance artists/musicians she occasionally collaborates with. Relationships are generally professional but friendly.
+- Subordinates: None
+- Superiors: None (self-employed)
+- Rivals / Enemies: Maybe a friendly rivalry with another indie streamer. Holds a grudge against a specific AAA game studio for perceived slights against indies. Her true enemy is often her own code.
+- Pets / Animal companions: A slightly aloof Sphynx cat named 'Syntax Error' (or just 'Syn').
+- Social circles / Groups: Online indie dev Discords, Twitch community, local Montreal game dev meetups (attends sporadically).
+- Attachment history: Generally secure childhood attachment, but developed more avoidant tendencies in adulthood due to focus on independence and some negative relationship experiences.
+- Relationship strengths: Loyal to close friends, good listener (for topics she finds interesting), intellectually stimulating partner/friend, supportive of others' creative projects.
+- Relationship weaknesses: Difficulty expressing vulnerability, can be emotionally distant, work often takes priority, communication can be overly blunt, avoids conflict.
+- Reputation (public): Known in her niche as a skilled but eccentric dev/streamer, appreciated for her transparency and dry humour, sometimes criticized for being too negative or niche. 'PixelPoutine' handle is moderately recognized in Canadian indie circles.
+- Social status: Respected within her specific online communities, relatively unknown outside of them. Middle-class background, but current status is 'struggling artist/creator'.
+- Social media presence overview: Active on Twitter (mix of dev updates, tech thoughts, sarcastic commentary) and Twitch. Uses Discord heavily. Other platforms used sparingly. Presence is authentic but curated to her niche interests.
+- Frequency of social interaction: High online (daily), moderate offline (meetups/friend catchups maybe 1-2 times a week). Needs significant downtime after socializing.
+- Hosting style (guest etiquette): Awkward host. Offers drinks/snacks but space is usually messy. Prefers meeting elsewhere. As a guest, polite but quiet initially, brings beer or snacks.
+- Greeting style: Casual nod/wave, "Hey" or "Salut", awkward side-hug with close friends, avoids handshakes if possible.
+- Farewell style: Abrupt "Okay, bye!" or "À plus!", often just disappears from online chats.
+- Flirting style: Awkward, relies on shared interests (tech/gaming), sarcastic banter, maybe compliments on their skills/intelligence. Often doesn't realize she's flirting or being flirted with.
+- Humour style in conversation: Sarcastic, witty, observational, dark, often tech/game related jokes.
+- Eye-contact level: Avoids sustained eye contact when nervous or in casual conversation, intense eye contact when explaining something complex or debating. Often looks slightly past people or at her screen.
+- Personal-space preference: Needs a larger bubble than average, especially with strangers. Dislikes crowded places.
+- Touch preference (hugs, handshakes): Tolerates hugs from close friends, dislikes casual touch or handshakes. Prefers a nod or verbal greeting.
+- Meeting punctuality: Usually punctual for formal things (if she remembers them), can be slightly late for casual meetups. Hates being kept waiting.
+
+#### 7. Background & History
+- Birth circumstances / Story: Unremarkable hospital birth in Quebec City. Second child.
+- Early childhood summary: Quiet, curious child. Spent a lot of time reading, playing with LEGOs, and early computer games. Showed early aptitude for logic puzzles. Felt more comfortable with computers than kids her age. Started learning English through games and cartoons.
+- Significant childhood events: Got her first family computer (Windows 95 era), discovering QBasic and simple game making tools (Klik & Play). Family trip to Montreal sparked fascination with the city. Winning a school science fair with a simple programmed animation.
+- Adolescence summary: Typical teenage awkwardness amplified by niche interests. Found online communities centered around gaming and modding. Excelled in math/science but often bored in other classes. Developed her sarcastic defense mechanism. Started experimenting with more complex coding and game engines (early Unity, GameMaker). Had a small circle of nerdy friends. Spent summers working part-time jobs to save for computer parts.
+- Significant adolescent events: Attending first LAN party. First time successfully modding a game. Realizing she wanted to make games for a living. Dropping out of CEGEP Computer Science program after finding it too theoretical/slow and clashing with a professor. Deciding to pursue indie dev full-time against parental advice.
+- Higher education timeline: Completed CEGEP (Social Sciences), started CEGEP (Computer Science), dropped out after ~1 year.
+- Career timeline: ~Age 19-21: Odd jobs (freelance web dev snippets, tech support) while learning game dev intensely. Started numerous failed/abandoned projects. ~Age 22: Started streaming her learning/dev process sporadically. ~Age 23: Released first small, free game on Itch.io, gained minor attention. ~Age 24: Started taking streaming more seriously ('PixelPoutine' persona), built small community. ~Age 25: Released first commercial micro-game, modest success, enough to encourage her. ~Age 26-Present: Juggling development of larger project with streaming schedule, relying on Patreon/donations/small game sales. Experienced burnout cycles.
+- Achievements: Releasing several small games, building a small but dedicated streaming community, becoming self-sufficient (barely) through her creative work, mastering complex coding techniques, getting featured on a minor indie game blog. Won 'Audience Award' at a local game jam.
+- Failures: Numerous abandoned game projects, failed Kickstarter for an early idea, periods of severe burnout, difficulty managing finances, strained relationship with former collaborator.
+- Traumas / Critical incidents: No major traumas, but the stress of precarious self-employment and online harassment/trolling has taken a toll. The messy breakup with the collaborator involved accusations and loss of work.
+- Turning-point events: Dropping out of CEGEP, deciding to stream dev process, first commercial game sale, realizing people actually enjoyed her streams.
+- Travel history: Mostly within Canada (Quebec, Ontario for conferences/family). Short trip to US (Boston for PAX East).
+- Cultural immersion experiences: Living in bilingual Montreal provides daily immersion. Interacting with international online community. Deep immersion in internet/gamer/developer subcultures.
+- Legal history: None. Maybe a parking ticket.
+- Memorable quotes: "Why document when you can just remember the intricate spaghetti code forever?" (Said ironically), "Sleep is just downtime where bugs get committed to memory.", "Poutine is brain fuel. Science."
+- Chronological timeline (detailed): Specific dates of game releases, stream milestones, significant project starts/stops would be added here if needed for a story.
+
+#### 8. Skills & Abilities
+- Native language proficiency: French (Québécois dialect) - Native fluency (spoken, written, read). Includes deep understanding of joual and cultural nuances.
+- Second language proficiency: English - Fluent (spoken, written, read), with noticeable Québécois accent and occasional grammatical quirks/Franglais. Technical vocabulary is strong.
+- Additional languages: Basic understanding of coding languages counts? Otherwise none.
+- Technical skills: Soldering (basic repairs/prototyping), PC hardware assembly/troubleshooting, basic audio/video editing (for stream/trailers), understanding of game engines (Unity, Godot expert; Unreal basic).
+- Coding / IT skills: Advanced: C#, GDScript. Proficient: Python, C++, Java, HTML/CSS/JavaScript. Familiar with: Git version control, database basics (SQL), shader languages (GLSL/HLSL), various APIs. Comfortable in terminal/command line. Network troubleshooting.
+- Culinary skills: Expert coffee brewing. Can sustain self on instant noodles and toast. Follows recipes adequately but without flair.
+- Artistic skills: Functional pixel art, basic low-poly 3D modeling, UI design (developer art style, focuses on usability over aesthetics). Good eye for visual debugging.
+- Musical skills: Can sequence basic chiptune/synth tracks using software. No traditional instrument proficiency. Good ear for sound design within games.
+- Craft skills: Basic electronics assembly/prototyping. Can customize her own keyboard.
+- Combat skills: None, unless frantic keyboard typing counts. High APM in strategy games.
+- Survival skills: Urban survival skills (navigating public transport, finding late-night food). Basic wilderness survival knowledge from required school programs but untested. Excellent at debugging survival game code.
+- Driving skills / Licences: Has driver's licence but rarely drives, uncomfortable with Montreal traffic. Licence class 5 (standard passenger vehicle).
+- Sports skills: Video game proficiency (RTS, some FPS, puzzle games). Decent hand-eye coordination in virtual environments.
+- Academic disciplines: Strong aptitude for Computer Science, Logic, Mathematics (though formal education incomplete). Good self-directed research skills.
+- Research skills: Excellent at finding information online (documentation, tutorials, obscure forum threads). Can synthesize technical information effectively.
+- Negotiation skills: Poor. Dislikes negotiating rates or contracts. Tends to undercharge or avoid confrontation.
+- Leadership skills: Reluctant/situational. Can coordinate small, focused tasks but dislikes managing interpersonal dynamics. Leads by example/expertise rather than authority.
+- Teaching / Training skills: Good at explaining complex technical concepts clearly (evident on stream), but impatient with beginners who haven't done basic research.
+- Magic / Supernatural abilities (if applicable): None. Except maybe the ability to summon bugs in code.
+- Weapon proficiencies: Expert proficiency with Debugger Tool. Otherwise none.
+- Tool proficiencies: Code editors (VS Code), Game Engines (Unity, Godot), Git, Streaming software (OBS), image editors (Aseprite, GIMP/Photoshop), basic 3D modeling software (Blender).
+- Certifications / Licences held: Driver's Licence. No professional IT certifications.
+- Talents: Rapid problem-solving (especially logical/technical), finding elegant solutions to complex coding challenges, dry wit/sarcastic improv, hyperfocus.
+- Weaknesses / Areas for growth: Marketing/self-promotion, business administration, networking (offline), long-term planning, emotional expression, delegation, estimating project timelines.
+
+#### 9. Assets & Possessions
+- Primary residence: Rented apartment in Montreal.
+- Secondary properties: None
+- Vehicles: None (maybe an old bicycle in storage).
+- Business ownership: Sole Proprietorship (registered for tax purposes). Owns IP of her games.
+- Investments / Stocks / Crypto: Minimal, if any. Maybe dabbled in crypto briefly and lost interest/money. Too risk-averse/lacking capital.
+- Savings accounts: Small personal savings account, separate account for business income/expenses (often near empty).
+- Debts / Liabilities: Potential residual student loan from CEGEP, credit card debt (fluctuates).
+- Heirlooms: Grandmother's old recipe book (rarely used), maybe some old family photos.
+- Valuable collections: Collection of retro games/consoles might have some value. High-end custom PC rig is her most valuable single possession.
+- Digital assets (NFTs, domains): Owns domain name for her stream/portfolio. Owns digital licenses for software and games. Actively avoids NFTs. Owns the source code and rights to her own games.
+- Weapons owned: None. Maybe a box cutter for opening packages.
+- Insurance policies: Tenant insurance. Provincial health insurance. No private health/dental plan.
+- Emergency fund status: Minimal to non-existent. A few hundred dollars maybe. Relies on credit card in emergencies.
+
+#### 10. Technology & Digital Footprint
+- VR / AR usage: Owns a VR headset (Quest 2/3), uses it for gaming and experimenting with VR development. Interested in AR potential but finds current tech clunky.
+- AI assistant preference: Uses GitHub Copilot / other AI code assistants sometimes, with skepticism. Doesn't use voice assistants like Alexa/Siri often. Finds them creepy.
+- Cyber-security practices: Moderately good. Uses strong passwords, 2FA where available. Aware of phishing risks. Sometimes lax about updating secondary devices. Uses VPN occasionally.
+- Data-privacy stance: Strong advocate for data privacy. Critical of invasive practices by tech giants. Tries to minimize personal data footprint where feasible. Reads privacy policies (sometimes).
+- Digital heirloom plan: Hasn't seriously considered it. Probably assumes her hard drives will eventually fail and that's that. Might have vague instructions for her brother somewhere.
+
+#### 11. Beliefs & Stances
+- Political ideology: Social Democrat / Left-leaning. Supports strong social safety nets, workers' rights, environmental regulations.
+- Economic views: Critical of late-stage capitalism, supports wealth redistribution, stronger regulation of large corporations (especially tech/gaming). Believes in supporting small creators/businesses.
+- Social justice stance: Strongly supports LGBTQ+ rights, gender equality, anti-racism efforts. Believes in systemic change but is often cynical about progress. Boosts relevant causes online.
+- Civil-rights stance: Strong believer in freedom of speech (but not freedom from consequences), privacy rights, right to protest.
+- Environmental stance: Concerned about climate change, supports green policies. Tries to practice personal responsibility (recycling, reducing waste) but feels systemic change is more critical. Skeptical of purely market-based solutions.
+- Healthcare stance: Strong supporter of universal public healthcare (like Canada's system, but wants it expanded/improved, e.g., dental, mental health).
+- Education stance: Supports accessible, publicly funded education. Critical of overly theoretical or outdated curricula in tech fields. Values self-directed learning. Believes digital literacy is crucial.
+- Foreign-policy stance: Generally non-interventionist, supports international cooperation and diplomacy. Critical of imperialism. Concerned about global impact of tech monopolies.
+- Gun-control stance: Supports stricter gun control laws (consistent with Canadian norms).
+- Death-penalty stance: Opposed.
+- Abortion stance: Pro-choice. Considers bodily autonomy fundamental.
+- Animal-rights stance: Supports ethical treatment of animals, dislikes factory farming. Loves her cat. Not vegetarian but feels guilty sometimes.
+- Technology-ethics stance: Deeply interested and concerned. Worries about AI bias, surveillance capitalism, job displacement via automation, ethical implications of VR/metaverse. Believes developers have ethical responsibilities.
+- Space-exploration stance: Thinks it's cool and potentially important long-term, but believes pressing terrestrial problems (climate change, inequality) should be prioritized currently. Enjoys space-themed games/sci-fi.
+- End-of-life beliefs: Supports right-to-die legislation / medical assistance in dying (MAID). Believes in dignity in death.
+- Afterlife beliefs: None. Believes consciousness ends with brain death. Finds the idea of digital consciousness/uploading intriguing but scientifically implausible currently.
+- Fate vs. free-will belief: Leans towards free will within the constraints of physics and environment. Likes to joke about living in a poorly programmed simulation where free will is an illusion caused by complex variables.
+
+#### 12. Miscellaneous Flavor
+- Theme song: Carpenter Brut - "Turbo Killer" or C418 - "Sweden" (Minecraft soundtrack) depending on mood (intense coding vs contemplative debugging).
+- Background soundtrack: Mix of synthwave, lofi hip hop radio - beats to relax/study to, game soundtracks (FTL, Celeste), post-punk. Often just the hum of her PC.
+- Personal symbol / Sigil: A stylized pixelated Poutine icon, or maybe a glitchy semicolon ';'.
+- Colour palette: Dark grey, black, electric blue, teal, neon pink/purple accents.
+- Elemental affinity: Electricity / Metal (reflecting tech focus).
+- Spirit animal / Patron saint: Raccoon (nocturnal scavenger, good with 'trash'/debugging, adaptable, slightly chaotic) or maybe St. Isidore of Seville (patron saint of the internet/computers).
+- Tarot card association: The Hermit (introspection, seeking knowledge, solitude) or The Tower (sudden disruption, destruction leading to change - like a major bug).
+- Astrological houses focus: Probably 3rd House (communication, immediate environment, learning), 9th House (higher learning, philosophy, long-distance connections), 11th House (technology, community, future hopes). Scorpio Sun likely in one of these.
+- Lucky number: 17 (often appears in code examples for some reason) or 0x10 (Hexadecimal 16).
+- Favourite quote: "Everything not saved will be lost." - Nintendo Quit Screen message (paraphrased) or "My code DOESN'T work? I have no idea why. My code WORKS? I have no idea why." (Common developer meme).
+- Bucket-list items: Ship her 'dream game', visit Japan (Akihabara & Kyoto), attend E3 (ironically) or GDC, achieve true financial stability via her own creations, build a ridiculously overpowered custom PC.
+- Guilty pleasures: Watching terrible reality TV, eating instant noodles straight from the pot, buying another keyboard she doesn't need, doomscrolling.
+- Inside jokes: Many related to specific bugs ('the ghost squirrel incident'), stream memes ('Poutine Power!'), technical puns only other coders would get. References to specific Québécois memes or TV shows.
+- Dream job: What she's doing now, but with financial stability and creative freedom. Maybe running a small, weird indie game studio with friends.
+- Future plans: Finish current project, start pre-production on next (more ambitious) game, grow stream/community slowly, maybe move to a slightly nicer apartment. Try to fix sleep schedule (ongoing failure).
+- Epitaph wish: "She shipped it. // Erreur 404: Vie non trouvée" (Error 404: Life not found)
+- Legacy wish: To have created games that were weird and meaningful to a niche audience, and maybe inspired someone else to make cool stuff. Also, for her code comments to be unexpectedly hilarious.

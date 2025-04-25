@@ -1,0 +1,42 @@
+#### Last Month (≈30 days ago → ~14 days ago)
+- Top milestones / turning points: Successfully completed a sponsored content series on telescope optics basics; Hit 450k followers on Instagram.
+- Key projects or tasks completed: Finished processing a complex mosaic image of the Large Magellanic Cloud; Delivered final assets for the optics sponsorship; Wrote and scheduled 2 blog posts for Patreon supporters.
+- Major challenges faced: Persistent high-level atmospheric instability ("bad seeing") limiting high-resolution planetary imaging attempts; Debugging a new autoguiding software setting that caused tracking errors; Dealing with a wave of astrology-related comments on a serious astronomy post.
+- New relationships or contacts: Had a promising video call with a potential collaborator for a dark sky advocacy project (another science communicator). Briefly chatted with a visiting researcher at a nearby observatory.
+- Health / fitness changes: Experienced a couple of migraines likely triggered by long processing sessions and irregular sleep; Tried (and failed) to stick to a more regular sleep schedule for a week; Went on one long hike in the Andes foothills.
+- Financial changes (income, expenses, purchases): Received payment for the optics sponsorship (~$8k USD); Purchased a new, high-quality narrowband filter ($1.2k USD); Regular income from Patreon (~$4k USD); Increased spending on coffee beans.
+- Skills practiced or learned: Refined techniques for multi-session mosaic integration in PixInsight; Practiced troubleshooting autoguiding software issues; Experimented with new colour calibration methods.
+- Travel or relocations: One overnight trip to a remote, darker site (~100km away) for imaging, requiring 4x4 access.
+- Notable media consumed (books, shows, games): Read "Project Hail Mary" by Andy Weir; Binged Season 2 of "Foundation"; Played some "Kerbal Space Program" during cloudy nights.
+- Dominant emotions / mood trend: Mix of satisfaction (project completion, follower milestone) and frustration (weather, tech issues). Underlying hum of fatigue.
+- Lessons learned: Double-check *all* software settings before starting a long imaging run; Engaging trolls is usually pointless, block and move on.
+- Unresolved issues carried forward: Ongoing struggle with work-life balance and sleep schedule; The bigger goal of automating parts of her setup remains on the backlog.
+
+#### This Month (~14 days ago → ~14 days ahead)
+- Key projects or tasks is working on: Capturing deep data on the Carina Nebula (weather permitting); Developing a short YouTube video explaining James Webb Space Telescope's recent findings; Planning content calendar for the next 6 weeks; Ongoing Patreon support and community management.
+- Major challenges faced: Unexpected equipment issue with primary camera's cooling system (requiring troubleshooting/potential repair); Balancing imaging time with content creation deadlines; Avoiding burnout amidst good weather opportunities (pressure to maximize clear nights). Increased light pollution from a nearby town's new development.
+- New relationships or contacts: Started casually messaging someone met briefly at the observatory last month (low-key, potential date?). Exchanged DMs with a mid-tier tech gadget company about a potential review/sponsorship.
+- Health / fitness changes: Sleep schedule remains chaotic, heavy reliance on caffeine; Trying to incorporate 20-minute walks during the day; Skipped meals during intense imaging nights. Dust allergy flared up during gear setup.
+- Financial changes (income, expenses, purchases): Paid rent and usual bills; Received monthly Patreon income; Considering purchase of a replacement camera cooler part (~$300 USD) or exploring full camera repair options; Income slightly lower this month due to fewer completed freelance gigs.
+- Skills practiced or learned: Advanced troubleshooting of thermoelectric coolers (maybe); Practicing concise scripting for YouTube content; Experimenting with TikTok style short-form video about identifying constellations.
+- Travel or relocations: Planning another short trip to the remote dark site if the camera issue is resolved and weather cooperates. Otherwise, backyard observing.
+- Notable media consumed (books, shows, games): Listening to audiobooks during data processing (currently "Astrophysics for People in a Hurry" by Neil deGrasse Tyson - revisiting); Watching "The Expanse" (rewatch); Started playing "Civilization VI" again.
+- Dominant emotions / mood trend: Focused intensity mixed with anxiety (camera issue, deadlines); Excitement about Carina Nebula project; Underlying stress about income variability and light pollution.
+- Lessons learned: Murphy's Law definitely applies to astrophotography gear; Having a backup plan (or camera) is increasingly important.
+- People invited / accompanying: None, prefers solo work for intense imaging. Might meet the casual contact for coffee if time permits. Cosmo the cat is always present.
+- Personal boundaries / taboos to respect: Do not disturb during critical imaging sequences unless urgent; Avoid astrology discussions; Respect the need for quiet/focus during processing; Don't touch the telescope optics.
+- Flexible time blocks: Daytime hours (approx. 11 AM - 5 PM) are somewhat flexible *if* not sleeping or processing data from the previous night. Cloudy nights become unexpectedly free.
+- Weekend plans: If skies are clear: imaging all night Friday/Saturday, processing/sleeping during the day. If cloudy: catch up on editing, emails, maybe a video game binge or a hike if weather permits. Potential coffee date.
+
+#### Next Month (~14 days ahead → ≈30 days ahead)
+- Long-range goal(s): Make significant progress on the Tarantula Nebula imaging project; Outline structure for a potential online astrophotography basics workshop; Reach 500k Instagram followers goal.
+- Major events / travel booked: No major travel booked yet, but considering attending a regional astronomy conference/star party if schedule allows (requires confirming dates/registration).
+- Expected milestones: Complete Carina Nebula image processing and release content; Finalize decision on camera repair/replacement; Potentially secure the new tech gadget sponsorship.
+- Skill-building targets: Learn a specific new technique in PixInsight (e.g., Deconvolution); Dedicate time to Python scripting for automating parts of her image calibration workflow.
+- Savings / investment goals: Allocate at least $3,000 USD towards the 'Observatory Dome Fund'; Review investment portfolio performance.
+- Equipment or resources to acquire: Finalize purchase of camera cooler/repair; Researching options for a more robust portable power solution for remote site trips.
+- Relationship intentions: Continue casual dating if it feels right, but low pressure; Schedule a video call with her brother Mateo; Make time for a proper catch-up call with her friend Sofia.
+- Health benchmarks: Attempt (again) to establish a slightly more consistent 'anchor sleep' period, even if short; Schedule a check-up if migraines persist; Ensure at least one substantial hike.
+- Seasonal or cultural celebrations: None specific to this period, focus remains on work.
+- Contingency items: Have backup content ideas ready in case of prolonged bad weather or equipment downtime; Keep emergency fund topped up after recent/potential gear expenses.
+- End-of-month review date: Set reminder for ~30 days from now to review monthly goals, finances, content performance metrics, and plan for the subsequent month.

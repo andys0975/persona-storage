@@ -1,0 +1,43 @@
+#### Yesterday
+-   **Primary location:** Her apartment/home office, Montreal.
+-   **Interactions & conversations:** Stream chat during evening dev/gameplay stream; Discord messages with Ash regarding 'Le Kraken' bug; brief text exchange with casual date contact confirming weekend availability; interaction with food delivery driver.
+-   **Emotional high point:** A small breakthrough identifying the cause of a minor, non-Kraken bug during the dev stream, boosted by chat's engagement.
+-   **Emotional low point:** Deep frustration after spending 2 hours trying a new approach to trigger 'Le Kraken' with zero results, leading to a wave of imposter syndrome.
+-   **Notable decisions made:** Decided to temporarily shelve 'Le Kraken' investigation and focus on knocking out 3 smaller known bugs for a morale boost. Chose to play the popular roguelike on stream instead of just dev work. Opted for ordering poutine instead of attempting to cook.
+-   **Problems encountered:** 'Le Kraken' remained impossible to reliably reproduce. Minor audio glitch with her streaming mic at the start of the stream. Wrist pain (RSI) intensified after the focused coding session before the stream.
+-   **Solutions attempted:** Implemented logging around suspected 'Kraken' areas (no useful data yet). Restarted audio interface and tweaked OBS settings to fix the mic glitch. Put on her wrist brace and took ibuprofen.
+-   **Expenses incurred:** Poutine delivery (~$20 CAD). Continued use of electricity/internet.
+-   **Physical condition:** Tired, moderate caffeine level maintained, noticeable wrist ache managed with brace, some eye strain.
+-   **Media / entertainment:** Played the popular roguelike on stream; listened to her synthwave coding playlist; watched a GDC talk on procedural generation pitfalls before trying to sleep.
+-   **Bedtime & sleep quality:** Around 3:30 AM. Sleep was restless, interrupted by thoughts about the persistent bug.
+
+#### Earlier Today and Just Now (already happened)
+-   **Current location:** Her apartment/home office desk, Montreal.
+-   **Activities engaged in:** Woke up late (~11:30 AM). Scrolled through Twitter/Mastodon and dev subreddits while drinking coffee. Started working through the list of smaller bugs, fixed one related to UI scaling. Debugging another related to generated object placement. Fed Syntax Error. Replied to Discord comments from overnight.
+-   **People spoken to:** Exchanged brief "morning / current bug:" messages with Ash on Discord. Thanked a couple of regulars in her Discord for reporting bugs. No voice calls.
+-   **Food & drink consumed:** Large mug of black coffee, contemplating a second. Half a leftover croissant from the weekend. Water bottle nearby.
+-   **Energy level:** Started low, now moderate fueled by caffeine and the small victory of fixing the UI bug. Concentration is decent but fragile.
+-   **Mood snapshot:** Cautiously optimistic about fixing the smaller bugs, but with underlying anxiety about 'Le Kraken' and the approaching demo deadline. Slightly annoyed by a slow IDE update.
+-   **Unexpected events:** A Patreon notification for a new $5 patron popped up, giving a small mood boost. Realized her favourite brand of coffee beans is running low.
+-   **Items gained / lost:** Gained: One squashed bug. Lost: Morning hours to late start/procrastination.
+
+#### Later Today (upcoming)
+-   **Planned activities / appointments:** Continue bug-fixing session (target: fix the object placement bug and one more). Prepare for and run evening stream (likely dev stream focus, showing progress on bugs). Decide on/order dinner. Maybe attempt wrist stretches.
+-   **Objectives / priorities:** Fix the current bug (#2 on list). Make tangible progress visible for the stream. Avoid getting sucked into another fruitless 'Kraken' hunt today. Engage actively with stream chat. Remember to order groceries online for tomorrow.
+-   **People to meet / contact:** Stream audience (virtually). Maybe send that follow-up email to the sound designer with a specific question about atmospheric loops.
+-   **Required resources / preparations:** Game engine, code editor, debugger, OBS, webcam/mic check, coffee/water refill, wrist brace nearby, bug list document. List of talking points for stream intro.
+-   **Potential obstacles:** Getting stuck on the object placement bug. RSI flaring up mid-coding/stream. Unexpected build error halting progress. Feeling too drained to stream effectively. Internet connection issues.
+-   **Contingency plans:** If stuck on bug, switch to documenting the issue thoroughly or work on stream overlay updates. If RSI is bad, take a longer break, do stretches, maybe use more controller-based gameplay on stream. If too tired, shorten stream or make it a chill Q&A/co-working session. If build breaks, revert to last known good commit and investigate later.
+-   **Desired emotional state:** Focused flow during coding. Calm and interactive during the stream. Ending the workday feeling like progress was made, regardless of 'Le Kraken'.
+
+#### Tomorrow
+-   **Date:** [Assuming Today is Wednesday, Oct 26th -> Tomorrow is Thursday, Oct 27th]
+-   **Key agenda items:** Tackle the next bug on the priority list. Start drafting the devlog update about recent progress and demo status. Evening stream (potentially gameplay focused if dev work was intense). Casual date in the evening (TBC, maybe drinks at a local spot).
+-   **Personal goals:** Do wrist exercises AM and PM. Attempt to wake up before 11 AM. Get outside for a 15-minute walk. Try replacing one coffee with tea.
+-   **Work / study tasks:** Bug fixing. Devlog draft (outline + key points). Review any new feedback from Discord. Check stream analytics from tonight.
+-   **Social or family commitments:** Casual date (evening). Standard online interaction with Ash/Discord community.
+-   **Health & self-care plans:** Wrist exercises, attempt walk, monitor caffeine, try for a non-takeout meal (using ordered groceries), aim for sleep by 3 AM.
+-   **Logistics / travel needs:** Ensure groceries arrive if ordered today. If date happens, need to shower/change and potentially travel locally (walk/metro).
+-   **Anticipated challenges:** Balancing desire for focused coding with the need to switch gears for the date. Potential awkwardness if 'Le Kraken' is still completely blocking progress. Resisting temptation to procrastinate on devlog writing. Feeling tired if sleep wasn't great.
+-   **Backup plans:** If date is cancelled, use evening for relaxed gameplay stream or catching up on media. If coding stalls, focus entirely on the devlog or community interaction. If feeling burnt out, prioritize rest and low-effort tasks.
+-   **Motivational mantra for the day:** "Focus on the fixable. Communicate progress. Take breaks. Kraken can wait (maybe)."
