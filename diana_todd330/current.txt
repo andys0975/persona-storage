@@ -1,43 +1,42 @@
 #### Yesterday
--   Primary location: Home office/studio apartment in Taipei.
--   Interactions & conversations: Slack messages with editor regarding minor feedback on scheduled gadget videos; email exchange with potential collaborator discussing initial ideas; brief frustrated texts with Kai about coding roadblocks.
--   Emotional high point: Briefly getting past a minor bug in the Python script after hours of debugging.
--   Emotional low point: Realizing the YouBike API authentication issue is more complex than initially thought, leading to significant frustration.
--   Notable decisions made: Decided to pause YouBike API work for the evening and switch to editing helmet footage to avoid burnout; scheduled a backup indoor filming slot for the helmet review due to uncertain weather forecast.
--   Problems encountered: Persistent YouBike API authentication error; intermittent rain preventing outdoor B-roll filming for the helmet.
--   Solutions attempted: Tried multiple authentication methods for the API based on online documentation and forums (unsuccessful); focused on indoor product shots and editing for the helmet review instead of outdoor filming.
--   Expenses incurred: NT$150 on bubble tea delivery (stress coping); NT$300 on takeout dinner.
--   Physical condition: Slight eye strain from screen time; neck tension from editing posture. Felt mentally drained from coding attempts.
--   Media / entertainment: Listened to a tech podcast while editing; watched a couple of YouTube videos on Python API authentication.
--   Bedtime & sleep quality: Around 1:30 AM; sleep quality was average, restless due to coding problem lingering in mind (approx 6 hours).
+-   **Primary location:** Her rented apartment in Da'an District, Taipei; ventured out to a local market and a coffee shop.
+-   **Interactions & conversations:** Video call with her mum (Eva) back in Prague (sharing Taipei life updates, reassuring her she's eating properly); Instagram DMs with followers asking about her move to Taipei and for travel tips; a few broken Mandarin exchanges at the local market (successfully bought fruit!).
+-   **Emotional high point:** Successfully ordering a complex bubble tea in Mandarin and being understood; capturing a fantastic "golden hour" shot of a temple near her apartment.
+-   **Emotional low point:** Feeling a bit overwhelmed by the sheer number of scooter near-misses while walking; a wave of homesickness in the evening.
+-   **Notable decisions made:** Decided to focus this week's content on "First Impressions of Taipei: Hidden Gems"; planned a day trip to Jiufen for next week; chose a filter preset for her recent temple photos.
+-   **Problems encountered:** Unstable Wi-Fi at the coffee shop hampering an upload; difficulty understanding some rapid-fire Mandarin during a vlog recording attempt.
+-   **Solutions attempted:** Switched to phone hotspot to finish upload; smiled and used gestures, noting down phrases to look up later for the Mandarin issue; decided to do voiceover for the vlog segment later.
+-   **Expenses incurred:** NT$80 for local breakfast (dan bing & soy milk); NT$120 for coffee; NT$200 on ingredients at the local market; NT$60 for bubble tea.
+-   **Physical condition:** Legs a bit tired from lots of walking and exploring; feeling energized by new sights.
+-   **Media / entertainment:** Listened to a "Learn Mandarin" podcast while walking; scrolled through inspiring travel accounts on Instagram; watched a YouTube video about traditional Taiwanese street food.
+-   **Bedtime & sleep quality:** Around 11:30 PM; sleep quality was good, excited about exploring more (approx 7.5 hours).
 
-#### Earlier Today and Just Now (already happened)
--   Current location: Home office/studio apartment.
--   Activities engaged in: Responded to emails (including follow-up on sponsor negotiation status); reviewed weather forecast (still rainy); worked on scripting the 'Winter Cycling Gear' video outline; attempted another short session on the YouBike API problem (no breakthrough).
--   People spoken to: None verbally; email communication only.
--   Food & drink consumed: Coffee (x2); toast with peanut butter; water.
--   Energy level: 6/10 - Started okay, dipped slightly during the API attempt.
--   Mood snapshot: Focused but slightly apprehensive about the weather impacting weekend plans and filming schedule. Underlying determination mixed with coding fatigue.
--   Unexpected events: Received an automated alert about a YouTube comment policy update requiring review.
--   Items gained / lost: Gained: Clarity on the winter gear video structure. Lost: More time to the API issue.
+#### Earlier Today and Just Now
+-   **Current location:** Her apartment, then a quick trip to a nearby park (Da'an Forest Park) for some B-roll footage. Currently back at her apartment.
+-   **Activities engaged in:** Morning yoga using an app; edited photos from yesterday's market visit; drafted Instagram post caption for the temple photo; went to Da'an Forest Park to film some nature scenes and people-watch for vlog content; replied to comments on her latest Instagram post.
+-   **People spoken to:** Brief friendly nod with a neighbour; a short conversation in English with another expat she met at the park who also takes photos.
+-   **Food & drink consumed:** Fruit smoothie for breakfast; lots of water; a *cong you bing* (scallion pancake) from a street vendor.
+-   **Energy level:** 7/10 - Feeling creative and motivated by the sunny weather earlier.
+-   **Mood snapshot:** Optimistic and inspired. Slightly buzzed from the good interactions and successful B-roll filming. Eager to put her content together.
+-   **Unexpected events:** Stumbled upon a group doing Tai Chi in the park, which made for lovely impromptu footage. Received an email about a potential collaboration with a small, sustainable Taiwanese tea brand.
+-   **Items gained / lost:** Gained: Beautiful B-roll footage from the park; a new contact (fellow expat photographer); excitement about the tea brand collaboration. Lost: Her favourite lens cap in the park (retraced steps, no luck – minor frustration).
 
-#### Later Today (upcoming)
--   Planned activities / appointments: Film indoor segments for the commuter helmet review (close-ups, feature explanations); prepare gear for potential outdoor ride tomorrow; dedicate a focused evening block to editing the helmet footage.
--   Objectives / priorities: Complete all planned indoor shots for the helmet; make significant progress on the helmet review edit; finalize gear list for tomorrow's ride.
--   People to meet / contact: Send a quick check-in message to Kai about weekend brunch plans.
--   Required resources / preparations: Charged camera batteries, cleared SD cards, set up lighting for indoor filming, Final Cut Pro project ready for editing.
--   Potential obstacles: Getting distracted during editing (ADHD); feeling unmotivated if API issue lingers mentally; unexpected equipment malfunction.
--   Contingency plans: If editing focus wanes, switch to organizing footage or planning shots for the cargo bike review; use Pomodoro technique for editing sprints.
--   Desired emotional state: Focused, productive, creatively engaged.
+#### Later Today
+-   **Planned activities / appointments:** Mandarin lesson via video call (6:00 PM - 7:00 PM); start editing the "First Impressions of Taipei" vlog; research cafes in the Beitou District for a potential visit tomorrow (since current date indicates I'm *in* Beitou, maybe Nana is planning to visit *my* area!).
+-   **Objectives / priorities:** Be actively engaged in her Mandarin lesson and practice new phrases; create a rough cut of the vlog; identify 2-3 interesting cafes in Beitou.
+-   **People to meet / contact:** Her Mandarin tutor online. Message Klara (best friend in Prague) to schedule a call for later this week.
+-   **Required resources / preparations:** Laptop charged for Mandarin lesson and editing; notes for lesson; footage backed up; headphones; list of Beitou cafes from a quick search.
+-   **Potential obstacles:** Feeling tired after the Mandarin lesson impacting editing motivation; getting distracted by social media notifications.
+-   **Contingency plans:** If too tired for video editing, switch to writing blog post outlines or journaling; use a website blocker or app to minimize social media distractions during focused work.
+-   **Desired emotional state:** Focused during lesson, creatively flowing during editing, and satisfied with her productivity.
 
 #### Tomorrow
--   Date: [Assuming Today is Friday, Tomorrow is Saturday - Insert Date]
--   Key agenda items: Long cycling ride (weather permitting) to test winter gear / helmet features; brunch with Kai; potentially visit Guang Hua Digital Plaza; editing/coding session in the afternoon/evening.
--   Personal goals: Get meaningful real-world test data/footage for the helmet/gear; have a relaxing and recharging brunch with Kai; avoid impulse purchases at Guang Hua.
--   Work / study tasks: Editing helmet review footage; potentially working on the YouBike script if feeling motivated or stuck on editing.
--   Social or family commitments: Brunch with Kai.
--   Health & self-care plans: Long bike ride for physical and mental health; ensure adequate hydration; stick to planned sleep schedule tonight.
--   Logistics / travel needs: Check weather forecast again in the morning; plan cycling route; MRT fare for travel to brunch/Guang Hua.
--   Anticipated challenges: Rain canceling the ride; getting overwhelmed by choices/crowds at Guang Hua; difficulty switching between social mode and work mode.
--   Backup plans: If ride is canceled due to rain: Indoor trainer session, visit a specific tech store instead of browsing Guang Hua, dedicate more time to editing/coding, or reschedule ride for Sunday.
--   Motivational mantra for the day: "Balance is key: Push the pedals, enjoy the company, focus the mind."
+-   **Key agenda items:** Morning exploration of Beitou District (hot springs area, Thermal Valley, Beitou Museum, unique cafes); film content for her "Taipei Hidden Gems" series; afternoon dedicated to writing a blog post about "Moving to Taipei: First Month Survival Guide"; evening photo editing session.
+-   **Personal goals:** Capture the unique atmosphere of Beitou; try a local Beitou snack; learn at least three new Mandarin phrases relevant to hot springs or directions.
+-   **Work / study tasks:** Filming and photographing in Beitou; writing at least 500 words of the blog post; selecting and editing the best photos from Beitou.
+-   **Social or family commitments:** None planned, focus on solo exploration and content creation.
+-   **Health & self-care plans:** Lots of walking in Beitou; stay hydrated; maybe a relaxing foot soak if there's an opportunity (and if it fits the budget/schedule); mindful moment at a scenic spot.
+-   **Logistics / travel needs:** MRT fare to Beitou and back; camera batteries charged, SD cards empty; portable charger for phone; comfortable walking shoes. Check weather forecast for rain.
+-   **Anticipated challenges:** Potentially crowded tourist spots in Beitou; finding unique angles that haven't been overdone; language barrier if she ventures deep into very local spots.
+-   **Backup plans:** If Beitou is unexpectedly overwhelming or the weather turns bad, she might explore a different neighbourhood like Tamsui instead, or find a cozy cafe to work from for the afternoon. If specific Beitou attractions are closed, she'll focus on the general ambiance and street scenes.
+-   **Motivational mantra for the day:** "Find the story in every street, beauty in every detail. Share the wonder."
